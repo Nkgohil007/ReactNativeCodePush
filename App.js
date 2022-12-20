@@ -26,7 +26,7 @@ const App = () => {
       <Image
         style={{height: '100%', width: '100%'}}
         resizeMode={'contain'}
-        source={require('./assets/owl.jpeg')}
+        source={require('./assets/image.jpeg')}
       />
 
       <Text style={{color: 'black', fontSize: 30}}>{count}</Text>
